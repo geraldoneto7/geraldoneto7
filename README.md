@@ -1,18 +1,24 @@
-### Hi there 👋
+### Olá, sou o Geraldo Carvalho👋
 
-<!--
-**geraldoneto7/geraldoneto7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estudando Engenharia Elétrica e tecnologias de programação.
 
-Here are some ideas to get you started:
+<div style="display:inline_block">
+<img src="https://github-readme-stats.vercel.app/api?username=geraldoneto7&theme=blue-green" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldoneto7&theme=blue-green" align="center">
+</div>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display:inline_block">
+  <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img align="center" alt="ARDUINO" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+
+</div>
+
+<hr>
+
+
+
+
 
   ![Snake animation](https://github.com/geraldoneto7/geraldoneto7/blob/output/github-contribution-grid-snake.svg)
